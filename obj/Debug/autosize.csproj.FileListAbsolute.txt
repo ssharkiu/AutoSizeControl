@@ -1,0 +1,10 @@
+G:\controlautosize\autosize\bin\Debug\autosize.exe.config
+G:\controlautosize\autosize\bin\Debug\autosize.exe
+G:\controlautosize\autosize\bin\Debug\autosize.pdb
+G:\controlautosize\autosize\obj\Debug\autosize.csproj.AssemblyReference.cache
+G:\controlautosize\autosize\obj\Debug\autosize.Form1.resources
+G:\controlautosize\autosize\obj\Debug\autosize.Properties.Resources.resources
+G:\controlautosize\autosize\obj\Debug\autosize.csproj.GenerateResource.cache
+G:\controlautosize\autosize\obj\Debug\autosize.csproj.CoreCompileInputs.cache
+G:\controlautosize\autosize\obj\Debug\autosize.exe
+G:\controlautosize\autosize\obj\Debug\autosize.pdb
