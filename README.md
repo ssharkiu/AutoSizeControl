@@ -1,4 +1,4 @@
-# AutoSizeControl - WinForms 控件自适应缩放组件
+# AutoSizeControl - WinForms 控件自适应缩放
 
 一个轻量、易用的 C# 类，用于实现 Windows Forms 窗体中控件的自适应缩放，支持窗体最大化、窗口化状态下的自动布局调整，解决高分辨率屏幕下的界面错位问题。
 
